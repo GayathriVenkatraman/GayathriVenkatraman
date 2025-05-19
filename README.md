@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Contributing to open-source projects
 
 ## 📫 How to reach me
-- [**LinkedIn**](https://www.linkedin.com/in/gayathri-venkatraman-29571a54/) & [**Mail**](gayathri.cake@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/gayathri-venkatraman-29571a54/) 
 
 
 ## 🛠 TechStack
