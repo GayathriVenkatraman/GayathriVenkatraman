@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 🚀 Currently learning **JavaScript**, **React**, and **Node.js**  
 🌍 Based in Denmark | Open to collaboration and learning opportunities
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![QA](https://img.shields.io/badge/-QA%20Engineer-blueviolet?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge)
+
 ## 🌱 What I'm working on
 - Building full-stack web apps using the React, Node & MySQL
 - Contributing to open-source projects
