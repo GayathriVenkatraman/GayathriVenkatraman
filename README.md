@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 |-----------------------------------|------------------------------------|
 |<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40" /> &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/03239a9a-cf1a-44af-addf-356fe35c4011" alt="GitHub" width="40" /> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/9b77a340-06a7-4726-bfe2-75185164a324" alt="Postman" width="40" /> &nbsp;&nbsp; | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="40" /> &nbsp;&nbsp; |
 
- 
+ <img src="https://github.com/user-attachments/assets/2d6689a7-c386-4954-b3ed-278688a16962" alt="CodeWars" width="200"/>
+
 
 ## 📊 GitHub Stats
 ![Gayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GayathriVenkatraman&show_icons=true&theme=dark)
