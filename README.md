@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gayathri
 
-🎯 Currently working as **Analyst QA Engineer** at **Merkle Danmark**
+🎯 Currently working as **Associate QA Engineer** at **Merkle Danmark**
 🌍 Based in Denmark 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge)
 
 ## 🌱 What I'm working on
-- **Analyst QA Engineer** - Test Case Execution, Identifying Bugs, Collaboration with Developers, Test Automation with Playwright
+- **Associate QA Engineer** - Test Case Execution, Identifying Bugs, Collaboration with Developers, Test Automation with Playwright
 
 ## 📫 How to reach me
 - [**LinkedIn**](https://www.linkedin.com/in/gayathri-venkatraman-29571a54/) 
